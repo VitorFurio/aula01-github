@@ -4,7 +4,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		//atualizado!
+		System.out.println("Bom dia");
 		
 	}
 
